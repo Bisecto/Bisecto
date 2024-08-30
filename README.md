@@ -28,7 +28,7 @@ When I’m not coding, I’m probably learning how blockchain technology works!
 
   <!-- GitHub Stats Card -->
   ![Okafor Precious' GitHub stats](https://github-readme-stats.vercel.app/api?username=bisecto&show_icons=true&theme=radical)
-
+  ![STREAK](https://github-readme-streak-stats.herokuapp.com/?user=bisecto&theme=default&hide_border=true)
   <!-- Top Languages Card -->
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bisecto&layout=compact&theme=radical)
 
