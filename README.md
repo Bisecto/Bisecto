@@ -21,7 +21,6 @@ As the 2022 **Google Developer Student Clubs (GDSC) Lead for the Mobile Track** 
     <img src="https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=for-the-badge&logo=android%20studio&logoColor=white" alt="Android Studio"/>
     <img src="https://img.shields.io/badge/xcode-%231573FF.svg?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
     <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
     <img src="https://img.shields.io/badge/wakatime-%23003A42.svg?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime"/>
 </div>
 
