@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 - 🌐 Check out my live projects on my **[Portfolio Website](https://okaforprecious.devfolio.io/)**.
-- 📱 **7+ years of experience** crafting robust mobile, web, and desktop applications using **Flutter & Dart**.
+- 📱 **7+ years of experience** crafting robust mobile, web, and desktop applications.
 - 💼 Currently working with **Jithvar Consultancy**, building modern software solutions.
 - 🎓 **B.Sc. in Computer Science** from *Nnamdi Azikiwe University*.
 - 🌟 Former **GDSC Lead (Mobile Track 2022)** at NAU, mentoring students in mobile architecture.
